@@ -1,2 +1,1 @@
-﻿shopping website 
- STATUS: in development
+
